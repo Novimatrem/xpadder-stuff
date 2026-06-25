@@ -7,7 +7,7 @@ Version=2015.01.01
 [Set Settings]
 
 [Assignments]
-Set1Button1Slots=Left Shift
+Set1Button1Slots=Left Shift,W
 Set1Button2Slots=Left Control
 Set1Button3Slots=Space
 Set1Button4Slots=F
