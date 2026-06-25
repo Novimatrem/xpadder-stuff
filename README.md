@@ -11,3 +11,8 @@
 ## PS2forFablev3
 
 ![PS2forFablev3](https://gitlab.com/Novimatrem/xpadder-stuff/-/raw/main/PS2forFablev3/screenshotv3.png "PS2forFablev3")
+
+## XboxSXforGTASA
+
+![XboxSXforGTASA](https://gitlab.com/Novimatrem/xpadder-stuff/-/raw/main/XboxSXforGTASA/screenshot.PNG "XboxSXforGTASA")
+
